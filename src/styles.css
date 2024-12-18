@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    zoom: 0.9; /* Reduce todo al 90% */
+}
+
+.wrapper {
+    min-height: 100vh; /* Hace que el contenedor ocupe toda la pantalla */
+    display: flex;
+    flex-direction: column;
+}
